@@ -1,3 +1,0 @@
-import java;
-int cod;
-String nombre;
